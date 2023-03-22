@@ -250,10 +250,10 @@ Partial Class Form1
         Me.Controls.Add(Me.BottomBar1)
         Me.Controls.Add(Me.NameLabel1)
         Me.Controls.Add(Me.PictureBox1)
-        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.MinimumSize = New System.Drawing.Size(800, 600)
         Me.Name = "Form1"
+        Me.ShowIcon = False
         Me.Text = "Simplecode - Keep 'em Tidy :: Ordering System (V.0.2. ALPHA)"
         Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()

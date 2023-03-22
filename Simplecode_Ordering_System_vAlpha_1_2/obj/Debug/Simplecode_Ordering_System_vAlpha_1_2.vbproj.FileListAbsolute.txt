@@ -1,0 +1,15 @@
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\bin\Debug\README.txt
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\bin\Debug\Simplecode_Ordering_System_vAlpha_1_2.exe.config
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\bin\Debug\Simplecode_Ordering_System_vAlpha_1_2.exe
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\bin\Debug\Simplecode_Ordering_System_vAlpha_1_2.pdb
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\bin\Debug\Simplecode_Ordering_System_vAlpha_1_2.xml
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\obj\Debug\Simplecode_Ordering_System_vAlpha_1_2.vbproj.AssemblyReference.cache
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\obj\Debug\Simplecode_Ordering_System_vAlpha_1_2.vbproj.SuggestedBindingRedirects.cache
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\obj\Debug\Simplecode_Ordering_System_vAlpha_1_2.Form1.resources
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\obj\Debug\Simplecode_Ordering_System_vAlpha_1_2.Form2_Orders.resources
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\obj\Debug\Simplecode_Ordering_System_vAlpha_1_2.Resources.resources
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\obj\Debug\Simplecode_Ordering_System_vAlpha_1_2.vbproj.GenerateResource.cache
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\obj\Debug\Simplecode_Ordering_System_vAlpha_1_2.vbproj.CoreCompileInputs.cache
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\obj\Debug\Simplecode_Ordering_System_vAlpha_1_2.exe
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\obj\Debug\Simplecode_Ordering_System_vAlpha_1_2.xml
+C:\Program Files (x86)\GitHub\SimpleDotNetOrderingSystemDemo\Simplecode_Ordering_System_vAlpha_1_2\obj\Debug\Simplecode_Ordering_System_vAlpha_1_2.pdb
